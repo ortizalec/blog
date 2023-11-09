@@ -1,6 +1,6 @@
 # a decision to produce
 
-## No shortage of ideas
+## no shortage of ideas
 
 I find I have no shortage of application and business ideas, but I don't posses the knowledge to execute. I thought learning Vue would give me the correct tools for the job. Wait I don't know how to do user authentication and authorization. Angular is connected to google, they surely have all the tools to get me started. Svelte is a lot more lightweight and people love using that. Supabase has authentication, and authorization. I think Go and HTMX are up and coming, there are SDK's for that. React has everything I need I just need to configure it correctly. How do I deploy anything. Where do I get an SSL certificate. Is everyone doing this? Why is it so hard for me? How do I get a website past localhost without making a next app and using vercel. I don't understand all the templates, and how to adapt them to my aplications needs. 
 
